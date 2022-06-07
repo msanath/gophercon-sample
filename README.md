@@ -3,9 +3,9 @@
 In this lab you will create a continuously-deployed, container-based web app from the code in `./go-sample`.
 
 1. Create an app and associated GitHub repo.
-1. Create a container registry and a repo for the app's image.
-1. Create a Web App which runs the app and continuously redeploys the container when udpated.
-1. Make a change to your code and watch the Web App update!
+2. Create a container registry and a repo for the app's image.
+3. Create a Web App which runs the app and continuously redeploys the container when udpated.
+4. Make a change to your code and watch the Web App update!
 
 # Details
 
